@@ -3,27 +3,27 @@ import React from "react";
 const Program = () => {
   const program = [
     {
-      img: "/public/s1.jpeg",
+      img: "/s1.jpeg",
       title: "Program S1 Resmi Madinah Salam",
       des: "Madinah Salam bekerjasama dengan perguruan tinggi terbaik di Indonesia, seperti LIPIA, STDI Jember, UIM Madinah, King Saud University, dll. Sehingga santri bisa mendapatkan ijazah resmi yang diakui oleh PDDIKTI. Sehingga bisa dipakai untuk bekerja",
     },
     {
-      img: "/public/dba.jpeg",
+      img: "/dba.jpeg",
       title: "Program Diploma Bahasa Arab",
       des: "progaram belajar bahasa arab untuk semua kalangan, agar memudahkan siapa saja yang mau belajar Bahasa Arab dengan waktu yang fleksibel. Kurikulum yang terstruktur dan efektif",
     },
     {
-      img: "/public/ilmi.jpeg",
+      img: "/ilmi.jpeg",
       title: "Program Diploma Ilmu Syariah",
       des: "Peserta akan belajar Ilmu Syar'i Sesuai Al-Qur'an dan As Sunnah dengan kurikulum yang sudah dirancang dengan baik sehingga pembelajaran  terstruktur dan efektif",
     },
     {
-      img: "/public/kursus.png",
+      img: "/kursus.png",
       title: "Program Kursus Madinah Salam",
       des: "Program Kursus madinah salam menyediakan pembelajaran bahasa inggris dan bahasa arab untuk anak dan dewasa. dan setiap kelasnya hanya terdiri 10 Santri saja",
     },
     {
-      img: "/public/qur'an.png",
+      img: "/qur'an.png",
       title: "Program Diploma Qur'an",
       des: "Program belajar Al-Qur'an dengan kurikulum yang terstruktur dan efektif. untuk semua kalangan anak dan dewasa yang ingin belajar Al-Qur'an. Ada Tahsin, Tahfidz, talaqi",
     },

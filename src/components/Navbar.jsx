@@ -15,7 +15,7 @@ const Navbar = ({ navbar}) => {
       <div className="flex flex-wrap items-center justify-between max-w-screen-xl p-3 mx-auto">
         {/* Logo */}
         <a href="#" className="flex items-center space-x-3">
-          <img src="/public/logoms1.png" alt="Logo" className="w-16 h-10" />
+          <img src="/logoms1.png" alt="Logo" className="w-16 h-10" />
           <span className="text-xl font-bold font-[poppins]">
             <h1>Madinah salam</h1>
           </span>

@@ -22,7 +22,7 @@ const Footer = () => {
   // Logo section with name, phone, and address
   const logoDetails = {
     name: "Madinah Salam",
-    logo: "/public/logoms1.png",
+    logo: "/logoms1.png",
     phone: "081 546 5552 123",
     address:
       "Jl. Radar Auri No. 9 RT/RW 013/005, Kel. Cibubur, Kec. Ciracas, Jakarta Timur.",

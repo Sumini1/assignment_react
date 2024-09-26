@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    img: "/public/avatr1.png",
+    img: "/avatr1.png",
     name: "Ali",
     opinion: "Belajar di Madinah Salam sangat menyenangkan",
   },

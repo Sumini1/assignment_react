@@ -1,12 +1,12 @@
 const Banner = () => {
   const Living = [
     {
-      img: "/public/dba.jpeg",
+      img: "/dba.jpeg",
       title: "Living Arabic",
       des: "Menghadirkan peembelajaran Bahasa Arab dengan dengan assatidazah dan guru-guru yang kompeten. lulusan universitas terbaik baik dalam maupun luar negeri seperti LIPIA, STDI Jember, UIM Madinah, King Saud University, dll.",
     },
     {
-      img: "/public/s1.jpeg",
+      img: "/s1.jpeg",
       title: "Siap Kuliah",
       des: "Tidak hanya belajar ilmu syar'i, di Madinah Salam juga disediakan program S1 Resmi yang bekerjasama dengan perguruan tinggi dalam negeri agar, santri yang belajar biasa berkesempatan untuk mendapatkan ijazah Resmi yang diakui PDDIKTI",
     },
@@ -33,7 +33,7 @@ const Banner = () => {
         </div>
         <div>
           <img
-            src="/public/ms2.jpg"
+            src="/ms2.jpg"
             alt="Madinah Salam"
             className="w-full h-full pb-5 rounded-md lg:w-[600px] lg:h-[300px] lg:hover:scale-110 duration-300 ease-in-out cursor-pointer"
           />
