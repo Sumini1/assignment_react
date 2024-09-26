@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.carousel-item {
+  @apply relative w-full transition-transform duration-700 ease-in-out;
+}
