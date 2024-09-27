@@ -9,7 +9,7 @@ const Faq = () => {
           <h1 className="mb-8 text-2xl font-bold text-center lg:text-left lg:text-4xl font-[poppins]">
             Pertanyaan Yang Sering Ditanyakan
           </h1>
-          <img src="/public/ms2.jpg" alt="" className="mb-5 rounded-lg lg:w-full " />
+          <img src="/ms2.jpg" alt="" className="mb-5 rounded-lg lg:w-full " />
         </div>
         {/* Bagian Accordion */}
         <div className="w-full px-4 py-5 rounded-lg shadow-2xl bg-gradient-to-r from-indigo-500 via-blue-500 to-green-500 lg:w-[70%] lg:px-6 lg:py-8">
